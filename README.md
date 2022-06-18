@@ -7,7 +7,6 @@
 | GPS Test      | com.chartcross.gpstest               | ![](./gpstest.png)          |
 | Geekbench 5   | com.primatelabs.geekbench5           | ![](./geekbench5.png)       |
 | MOONDROP LINK | com.moondroplab.moondroplink         | ![](./moondroplink.png)     |
-| Magisk        | com.topjohnwu.magisk                 | ![](./magisk.png)           |
 | Momo          | io.github.vvb2060.mahoshojo          | ![](./momo.png)             |
 | Termius       | com.server.auditor.ssh.client        | ![](./termius.png)          |
 | WolframAlpha  | com.wolfram.android.alpha            | ![](./wolframalpha.png)     |
