@@ -11,4 +11,6 @@
 | Momo          | io.github.vvb2060.mahoshojo          | ![](./momo.png)             |
 | Termius       | com.server.auditor.ssh.client        | ![](./termius.png)          |
 | WolframAlpha  | com.wolfram.android.alpha            | ![](./wolframalpha.png)     |
+| Cellular-Z    | make.more.r2d2.cellular_z            | ![](./cellular_z.png)       |
+| 慢慢买        | com.manmanbuy.bijia                  | ![](./manmanbuy.png)        |
 
