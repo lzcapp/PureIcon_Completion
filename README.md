@@ -20,3 +20,5 @@
 | DevCheck        | flar2.devcheck                          | ![](./PNGs/devcheck.png)              |
 | Tailscale       | com.tailscale.ipn                       | ![](./PNGs/tailscale.png)             |
 | 解析机器人        | com.parse.robot                         | ![](./PNGs/parse_robot.png)           |
+| 胜利女神：妮姬    | com.proximabeta.nikke                   | ![](./PNGs/nikke.png)                 |
+| 碧蓝档案         | com.RoamingStar.BlueArchive             | ![](./PNGs/blue_archive.png)          |
