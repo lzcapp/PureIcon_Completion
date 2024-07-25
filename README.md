@@ -18,3 +18,5 @@
 | Mantra          | com.fafifi.mantra                       | ![](./PNGs/ha.png)                    |
 | Home Assistant  | io.homeassistant.companion.android      | ![](./PNGs/mantra.png)                |
 | DevCheck        | flar2.devcheck                          | ![](./PNGs/devcheck.png)              |
+| Tailscale       | com.tailscale.ipn                       | ![](./PNGs/tailscale.png)             |
+| 解析机器人        | com.parse.robot                         | ![](./PNGs/parse_robot.png)           |
