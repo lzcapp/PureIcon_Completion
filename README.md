@@ -17,3 +17,4 @@
 | SCMP            | com.scmp.newspulse                      | ![](./PNGs/scmp.png)                  |
 | Mantra          | com.fafifi.mantra                       | ![](./PNGs/ha.png)                    |
 | Home Assistant  | io.homeassistant.companion.android      | ![](./PNGs/mantra.png)                |
+| DevCheck        | flar2.devcheck                          | ![](./PNGs/devcheck.png)              |
