@@ -12,3 +12,8 @@
 | Moviebase       | com.moviebase                           | ![](./PNGs/moviebase.png)             |
 | Wechat Payment  | com.tencent.mm                          | ![](./PNGs/wechat_pay.png)            |
 | Authenticator   | com.google.android.apps.authenticator2  | ![](./PNGs/google_authenticator.png)  |
+| PingTools       | ua.com.streamsoft.pingtools             | ![](./PNGs/pingtools.png)             |
+| 网速助手         | com.qoe.qoe                             | ![](./PNGs/ptest.png)                 |
+| SCMP            | com.scmp.newspulse                      | ![](./PNGs/scmp.png)                  |
+| Mantra          | com.fafifi.mantra                       | ![](./PNGs/ha.png)                    |
+| Home Assistant  | io.homeassistant.companion.android      | ![](./PNGs/mantra.png)                |
