@@ -1,7 +1,7 @@
 | APP Name        | Package ID                              | Icon                                  |
 | --------------- | --------------------------------------- | ------------------------------------- |
 | 3DMark          | com.futuremark.dmandroid.application    | ![](./PNGs/3dmark.png)                |
-| Gallery EZ      | com.jag.essentialgallery                | ![](./PNGs/essentialgallery.png)      |
+| EZ Gallery      | com.jag.essentialgallery                | ![](./PNGs/ez_gallery.png)            |
 | Flightradar24   | com.flightradar24free                   | ![](./PNGs/flightradar24.png)         |
 | GPS Test        | com.chartcross.gpstest                  | ![](./PNGs/gpstest.png)               |
 | Geekbench 5     | com.primatelabs.geekbench5              | ![](./PNGs/geekbench5.png)            |
