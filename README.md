@@ -22,3 +22,4 @@
 | 碧蓝档案         | com.RoamingStar.BlueArchive             | ![](./PNGs/blue_archive.png)          |
 | TP-LINK物联      | com.tplink.ipc                          | ![](./PNGs/tplink.png)                |
 | TP-LINK商云      | com.tplink.smbcloud                     | ![](./PNGs/tplink_sy.png)             |
+| 网络百宝箱        | com.tplink.tool                         | ![](./PNGs/tplink_tool.png)           |
