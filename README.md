@@ -23,3 +23,5 @@
 | TP-LINK物联      | com.tplink.ipc                          | ![](./PNGs/tplink.png)                |
 | TP-LINK商云      | com.tplink.smbcloud                     | ![](./PNGs/tplink_sy.png)             |
 | 网络百宝箱        | com.tplink.tool                         | ![](./PNGs/tplink_tool.png)           |
+| 臣小印           | com.niimbot.cxprinter                   | ![](./PNGs/niim.png)                  |
+| Seel            | com.junkfood.seal                       | ![](./PNGs/seal.png)                  |
