@@ -25,3 +25,4 @@
 | 网络百宝箱        | com.tplink.tool                         | ![](./PNGs/tplink_tool.png)           |
 | 臣小印           | com.niimbot.cxprinter                   | ![](./PNGs/niim.png)                  |
 | Seel            | com.junkfood.seal                       | ![](./PNGs/seal.png)                  |
+| LocalSend       | org.localsend.localsend_app             | ![](./PNGs/localsend.png)             |
