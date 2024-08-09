@@ -26,3 +26,4 @@
 | 臣小印           | com.niimbot.cxprinter                   | ![](./PNGs/niim.png)                  |
 | Seel            | com.junkfood.seal                       | ![](./PNGs/seal.png)                  |
 | LocalSend       | org.localsend.localsend_app             | ![](./PNGs/localsend.png)             |
+| 花瓣测速         | com.huawei.genexcloud.speedtest         | ![](./PNGs/huawei_speedtest.png)      |
